@@ -57,11 +57,11 @@ Once the data is prepared, Tableau is utilized to create interactive and insight
 <br>
 <b>Created calculation field to obtain current year.<br>
   <br>
-<img src="https://i.postimg.cc/4yZVWSXc/cal1.png="30%" width="30%" />
+<img src="https://i.postimg.cc/4yZVWSXc/cal1.png="50%" width="50%" />
   <br>
   <b>Created calculation field to obtain previous year.<br>
     <br>
-  <img src="https://i.postimg.cc/yY295x6B/cal2.png="30%" width="30%" /><br>
+  <img src="https://i.postimg.cc/yY295x6B/cal2.png="50%" width="50%" /><br>
   <br>
     <b>Fully interactive Automotive Sales Dashboard.<br>
       <br>
